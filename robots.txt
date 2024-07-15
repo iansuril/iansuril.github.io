@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iansuril.github.io/sitemap
+Sitemap: https://iansuril.github.io/app/sitemap
+Sitemap: https://iansuril.github.io/assets/sitemap
+Sitemap: https://iansuril.github.io/css/sitemap
+Sitemap: https://iansuril.github.io/includes/sitemap
+Sitemap: https://iansuril.github.io/item/sitemap
+Sitemap: https://iansuril.github.io/src/sitemap
